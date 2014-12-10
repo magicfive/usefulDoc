@@ -1,0 +1,7 @@
+1.	Setup Git in windows platform
+http://blog.csdn.net/vipzjyno1/article/details/22098621
+
+2.	Magicfive¡¯s git repository:
+https://github.com/magicfive
+
+
